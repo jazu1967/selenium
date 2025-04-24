@@ -1,12 +1,12 @@
 async-generator==1.10
 attrs==23.2.0
-certifi==2023.11.17
+certifi==2024.7.4
 cffi==1.16.0
-cryptography==42.0.8
+cryptography==44.0.1
 secretstorage==3.3.3
 debugpy==1.8.11
 filetype==1.2.0
-h11==0.14.0
+h11==0.16.0
 idna==3.10
 importlib-metadata==6.8.0
 inflection==0.5.1
@@ -35,4 +35,4 @@ typing_extensions==4.9.0
 urllib3[socks]==2.0.7
 websocket-client==1.8.0
 wsproto==1.2.0
-zipp==3.17.0
+zipp==3.19.1
